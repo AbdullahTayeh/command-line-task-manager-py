@@ -103,13 +103,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-    
-    
-    
-    #each tasks should have
-    #unique id 
-    #description
-    #status
-    
-    
-    #[{"id": 1, "description": "hi this is a test", "status": "incomplete"}, {"id": 2, "description": "test 2 ", "status": "incomplete"}, {"id": 3, "description": "yest3", "status": "incomplete"}]
