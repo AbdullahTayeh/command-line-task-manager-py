@@ -2,12 +2,14 @@
 
 
 
-
+#### to run on terminal just run the following command
 python3 app.py
 
 
-
+#### If you want to try it with a user interface use the following commands:  
 sudo apt-get
 install python3-tk
 pip install ttkthemes
 python3 mainWithGUI.py
+
+##### Happy Coding! :)
